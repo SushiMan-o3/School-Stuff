@@ -1,2 +1,2 @@
 # School-Stuff
-A few decent projects I made at school
+Few projects from ISC3U1 and ICS4U1
